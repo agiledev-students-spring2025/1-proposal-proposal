@@ -26,7 +26,7 @@ The problem this system solves is the inefficient manual management of inventory
 --------
 
 
-We propose developing a Smart Refrigerator Management System (SRMS), a mobile (and/or web) application designed to help people better manage their refrigerated food items and reduce food waste. The problem this system addresses is significant: according to the U.S. Food & Drug Administration, the average household wastes approximately 30% to 40% of their food, costing residents $310 billion. A large portion could due to poor refrigerator management and forgotten expired items. Moreover, the forgotten expired food items can contaminate other foods in the refrigerator, creating potential health risks and requiring extensive cleaning. Many people, like myself, struggle to track expiration dates, forget what food they have, and end up with spoiled items or duplicate purchases.
+We propose developing a Smart Refrigerator Management System (SRMS), a mobile (and/or web) application designed to help people better manage their refrigerated food items and reduce food waste. The problem this system addresses is significant: according to the U.S. Food & Drug Administration, the average household wastes approximately 30% to 40% of their food, costing residents $310 billion. A large portion could due to poor refrigerator management and forgotten expired items. Moreover, the forgotten expired food items can contaminate other foods in the refrigerator, creating potential health risks and requiring extensive cleaning. Many people, like myself, struggle to track expiration dates, forget what food they have, and end up with spoiled items or duplicate purchases. Our system provides a feasible way to mitigate this issue.
 
 Different refrigerator models offer varying preservation features and storage zones optimized for specific types of food. For example, some models have specialized compartments for fruits and vegetables with humidity control, while others have precise temperature zones for meat and dairy. However, most users don't fully utilize these features because they don't understand how to match different foods with the optimal storage locations in their specific refrigerator model. This system would bridge this knowledge gap by providing personalized storage recommendations based on both the food type and the unique features of the user's refrigerator model.
 
@@ -79,7 +79,7 @@ All operations will be handled sequentially to ensure data consistency and avoid
 --------
 The system will provide the following key functionalities from an end-user's perspective:
 
-Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details.
+Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details. If the uploaded image is the actual picture of the food, the system may detect its best buy date by Users can view their refrigerator contents remotely without opening the door, reducing energy waste and maintaining optimal temperature.
 
 Expiration Tracking: The system maintains a database of standard food storage times and sends notifications when items are approaching expiration. Users can see a prioritized list of what needs to be consumed soon.
 
