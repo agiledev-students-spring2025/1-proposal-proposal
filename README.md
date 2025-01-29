@@ -51,9 +51,10 @@ This software is designed for several specific groups of end-users:
 - Busy professionals who regularly cook but struggle to keep track of their groceries
 - Families managing shared refrigerators who need better coordination of food purchases and usage
 - Health-conscious individuals who want to ensure their food is stored properly and consumed within optimal freshness periods
-- Budget-conscious consumers who want to minimize food waste and optimize their grocery shopping
+- Budget-conscious consumers who want to minimize food waste and optimize their grocery shopping through better inventory management and smart recipe suggestions
+- Technology-savvy homeowners who have invested in modern refrigerators but aren't fully utilizing their advanced features
 
-I have already spoken with several potential users, including my roommates and family members who actively manage household refrigerators, and they have expressed strong interest in such a system.*
+We have already spoken with several potential users, including our roommates, college friends, and family members who actively manage household refrigerators, and they have expressed strong interest in such a system.
 
 ## How?
 
