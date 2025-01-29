@@ -36,12 +36,46 @@ This system would solve these problems by providing automated tracking of food i
 
 *Who will this software be for? These people are your end-users or customers. Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you. Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.*
 
-This software is specifically designed for small-sized pharmacies and convenience stores. The system will serve multiple end-users within these businesses:
 
-- Inventory managers who need to monitor stock levels and manage supplier relationships
-- Stock clerks who handle the physical receipt and dispatch of products
-- Sales managers who process customer orders
-- Customers who place and track their orders
+The **Simple Supply Chain System** is designed specifically for **small-sized pharmacies and convenience stores** that need an efficient and automated way to manage **inventory, supplier relationships, and order processing**.
+
+### 🎯 Target End-Users
+
+#### 1️⃣ Inventory Managers
+- Monitor stock levels, manage supplier details, and ensure timely reordering.
+- Use the **Inventory Manager Interface** to:
+  - Track real-time stock levels 📊
+  - Receive low stock alerts 🔔
+  - Analyze inventory reports 📈
+  - Approve or modify automated reorder suggestions ✅
+
+#### 2️⃣ Stock Clerks
+- Handle physical inventory movements by logging incoming supplies and updating dispatch records.
+- Use the **Stock Clerk Interface** to:
+  - Register newly arrived products 📦
+  - Record supplier details 📝
+  - Update outgoing product records 🚚
+
+#### 3️⃣ Sales Managers
+- Oversee customer orders, ensure order fulfillment, and coordinate with inventory management.
+- Use the **Sales Management Interface** to:
+  - Track orders 📋
+  - Manage order fulfillment 🚀
+  - Generate reports on order history 📜
+
+#### 4️⃣ Customers
+- Create and manage their orders through the **Customer Interface**, track order statuses, and specify delivery details.
+- Use the **Customer Interface** to:
+  - Place new orders 🛒
+  - Modify existing orders ✏️
+  - Track order status 📦
+
+### 💡 Why These End-Users?
+- **Small-sized pharmacies and convenience stores** often struggle with manual inventory tracking, inefficient reordering, and order processing delays.
+- Existing enterprise solutions are often too complex or expensive for small businesses.
+- This system provides a **lightweight, user-friendly, and cost-effective solution** tailored to their needs.
+- Direct user feedback from pharmacy owners, store managers, and clerks will ensure that the system is **practical and truly beneficial**.
+
 
 
 --------
