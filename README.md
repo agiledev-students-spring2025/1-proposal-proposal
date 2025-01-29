@@ -20,17 +20,27 @@ This system would solve these problems by providing automated tracking of food i
 
 ## For whom?
 
-This software is designed for several specific groups of end-users:
+This software is designed for **anyone** who wants to **better manage their refrigerated food, reduce waste, and optimize grocery usage**. While the system is particularly useful for certain groups, **any user can benefit from its features**.  
 
-- Busy professionals who regularly cook but struggle to keep track of their groceries
-- Families managing shared refrigerators who need better coordination of food purchases and usage
-- Health-conscious individuals who want to ensure their food is stored properly and consumed within optimal freshness periods
-- Budget-conscious consumers who want to minimize food waste and optimize their grocery shopping through better inventory management and smart recipe suggestions
-- Technology-savvy homeowners who have invested in modern refrigerators but aren't fully utilizing their advanced features
+### **Primary Users** 👥  
+- **Busy professionals** 🏢👨‍🍳 who cook regularly but struggle to keep track of their groceries.  
+- **Families managing shared refrigerators** 👨‍👩‍👧‍👦 who need better coordination of food purchases and usage.  
+- **Health-conscious individuals** 🥗🏋️ who want to store food properly and consume it within optimal freshness periods.  
+- **Budget-conscious consumers** 💰🛒 who aim to minimize food waste and optimize grocery shopping through inventory tracking and smart recipe suggestions.  
+- **Tech-savvy homeowners** 🏠📱 who own modern refrigerators but aren’t fully utilizing their advanced features.  
 
-We have already spoken with several potential users, including our roommates, college friends, and family members who actively manage household refrigerators, and they have expressed strong interest in such a system.
+### **Accessible to Everyone** 🌎  
+Even if users don’t fit into these specific categories, anyone who wants to track their food inventory, get expiration reminders, or receive smart recipe suggestions can use this app.  
 
-Unlike some systems that need the involvement of business owners to test, which raise additional difficulties when partnering with those end-users, being university students, we have direct access to the user segments that can potentially be the end-users for this system, particularly through our dormitory communities and shared student apartments. Our immediate environment provides an ideal testing ground with users who fit multiple target segments: busy students who cook, health-conscious individuals sharing refrigerators, and budget-aware consumers wanting to minimize waste. This proximity to our user base will allow for rapid feedback cycles and iterative improvements throughout the development process.
+We have already spoken with **roommates, college friends, and family members** who actively manage household refrigerators, and they have expressed strong interest in such a system.  
+
+Unlike systems that require **business partnerships** for testing, our status as **university students** gives us **direct access** to everyday users in dormitory communities and shared apartments. This allows us to **test, refine, and improve** the app based on real-world feedback from:  
+- Busy students who cook 🏫🍳  
+- Health-conscious individuals sharing refrigerators 🥦👩‍⚕️  
+- Budget-aware consumers looking to reduce waste 🛍️📉  
+
+Since this app is **user-friendly and widely applicable**, it can be a valuable tool for **any household** looking to improve food organization and reduce waste. 🚀  
+
 
 ## How?
 
