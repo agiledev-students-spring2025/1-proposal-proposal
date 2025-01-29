@@ -46,12 +46,6 @@ Inventory Analytics: The system provides insights into food waste patterns, most
 
 ## Scope
 
-*A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.*
-
-This project is appropriately scoped for a 4-6 person team over one semester. The system's focus on small retail operations eliminates the need to handle complex manufacturing processes, making it more manageable. The sequential processing model significantly simplifies implementation by avoiding concurrent operations and complex synchronization issues. The project has clearly defined modules that team members can develop in parallel, allowing for efficient distribution of work. While the core functionality is well-defined, the system architecture allows for additional features if time permits. The existence of similar systems in the market provides valuable reference points for design decisions, reducing uncertainty in the development process. The project offers enough complexity through its database design, multiple user interfaces, and order processing logic to be challenging and educational, while remaining achievable within the semester timeframe.
-
---------
-
 
 This project strikes an appropriate balance for a semester-long development by a team of 4-6 programmers. The core functionality of inventory management and expiration tracking provides a solid foundation that can be implemented within the first half of the semester. The image recognition and recipe recommendation features add complexity that makes the project challenging without being overwhelming. We can leverage existing APIs for image recognition and recipe databases to avoid rebuilding these components from scratch. The project can be developed incrementally, with the basic tracking system implemented first, followed by the AI-powered features. The mobile application format provides natural boundaries for the project scope, while still allowing for expansion if time permits. The technical requirements involve mobile development, database design, API integration, and AI implementation - providing enough complexity to engage the entire team while remaining achievable within the semester timeframe.
 
