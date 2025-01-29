@@ -6,12 +6,6 @@ Jan 28, 2025
 
 ## Project title
 
-*Give your project a nice title.*
-
-Simple Supply Chain Management System (SCMS)
-
---------
-
 Smart Refrigerator Management System (SRMS)
 
 ## What and why?
