@@ -10,6 +10,8 @@ Jan 28, 2025
 
 Simple Supply Chain Management System (SCMS)
 
+*Smart Refrigerator Management System (SRMS)*
+
 ## What and why?
 
 *What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.*
@@ -17,6 +19,14 @@ Simple Supply Chain Management System (SCMS)
 We propose building a Simple Supply Chain Management System (SCMS) designed to streamline and automate key supply chain processes for small-scale retail operations. The system focuses on two critical areas: inventory & supplier management and order processing collaboration.
 
 The problem this system solves is the inefficient manual management of inventory and orders in small retail businesses like pharmacies and convenience stores. Many such businesses still rely on paper-based systems or basic spreadsheets, leading to inventory errors, delayed reordering, and poor supplier coordination. By automating these processes, the system will reduce human error, prevent stock-outs, and improve overall operational efficiency.  
+
+
+--------
+
+
+I propose developing a Smart Refrigerator Management System (SRMS), a mobile application designed to help people better manage their refrigerated food items and reduce food waste. The problem this system addresses is significant: according to research, the average household wastes approximately 30% of their food, with a large portion due to poor refrigerator management and forgotten expired items. Many people struggle to track expiration dates, forget what food they have, and end up with spoiled items or duplicate purchases.
+
+This system would solve these problems by providing automated tracking of food items, expiration dates, and customized storage recommendations based on different refrigerator models. Additionally, it would help users maximize their groceries by suggesting recipes based on available ingredients, ultimately reducing food waste and saving money.
 
 ## For whom?
 
@@ -28,6 +38,18 @@ This software is specifically designed for small-sized pharmacies and convenienc
 - Stock clerks who handle the physical receipt and dispatch of products
 - Sales managers who process customer orders
 - Customers who place and track their orders
+
+
+--------
+
+This software is designed for several specific groups of end-users:
+
+- Busy professionals who regularly cook but struggle to keep track of their groceries
+- Families managing shared refrigerators who need better coordination of food purchases and usage
+- Health-conscious individuals who want to ensure their food is stored properly and consumed within optimal freshness periods
+- Budget-conscious consumers who want to minimize food waste and optimize their grocery shopping
+
+I have already spoken with several potential users, including my roommates and family members who actively manage household refrigerators, and they have expressed strong interest in such a system.*
 
 ## How?
 
@@ -48,14 +70,30 @@ The system consists of two main modules:
 
 All operations will be handled sequentially to ensure data consistency and avoid conflicts.
 
+
+--------
+The system will provide the following key functionalities from an end-user's perspective:
+
+Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details.
+
+Expiration Tracking: The system maintains a database of standard food storage times and sends notifications when items are approaching expiration. Users can see a prioritized list of what needs to be consumed soon.
+
+Storage Optimization: Based on the user's refrigerator model (input during setup), the system provides customized storage recommendations for optimal food preservation, including suggested temperature settings and ideal storage locations within the refrigerator.
+
+Recipe Suggestions: An AI-powered recipe recommendation system suggests meals based on available ingredients, prioritizing items nearing expiration. Users can filter suggestions based on dietary preferences and cooking time.
+
+Inventory Analytics: The system provides insights into food waste patterns, most/least used items, and shopping recommendations to help users optimize their grocery purchases.
+
 ## Scope
 
 *A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.*
 
 This project is appropriately scoped for a 4-6 person team over one semester. The system's focus on small retail operations eliminates the need to handle complex manufacturing processes, making it more manageable. The sequential processing model significantly simplifies implementation by avoiding concurrent operations and complex synchronization issues. The project has clearly defined modules that team members can develop in parallel, allowing for efficient distribution of work. While the core functionality is well-defined, the system architecture allows for additional features if time permits. The existence of similar systems in the market provides valuable reference points for design decisions, reducing uncertainty in the development process. The project offers enough complexity through its database design, multiple user interfaces, and order processing logic to be challenging and educational, while remaining achievable within the semester timeframe.
 
+--------
 
 
+This project strikes an appropriate balance for a semester-long development by a team of 4-6 programmers. The core functionality of inventory management and expiration tracking provides a solid foundation that can be implemented within the first half of the semester. The image recognition and recipe recommendation features add complexity that makes the project challenging without being overwhelming. We can leverage existing APIs for image recognition and recipe databases to avoid rebuilding these components from scratch. The project can be developed incrementally, with the basic tracking system implemented first, followed by the AI-powered features. The mobile application format provides natural boundaries for the project scope, while still allowing for expansion if time permits. The technical requirements involve mobile development, database design, API integration, and AI implementation - providing enough complexity to engage the entire team while remaining achievable within the semester timeframe.
 
 
   
