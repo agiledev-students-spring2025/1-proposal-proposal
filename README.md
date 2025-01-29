@@ -79,13 +79,13 @@ All operations will be handled sequentially to ensure data consistency and avoid
 --------
 The system will provide the following key functionalities from an end-user's perspective:
 
-Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details. If the uploaded image is the actual picture of the food, the system may detect its best buy date by Users can view their refrigerator contents remotely without opening the door, reducing energy waste and maintaining optimal temperature.
+Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details. If the uploaded image is the actual picture of the food, the system may detect its best buy date by looking at its visual characteristics (color, texture, surface conditions) to assess its current freshness level. If the light or quality of the food is not good enough to provide those information, or if the uploaded image is the recept, the system may extract printed best-by dates from packaging, the suggested best-by dates from internet/food sellers, or the standard storage timelines. Users can also view their refrigerator contents remotely without opening the door, reducing energy waste and maintaining optimal temperature.
 
-Expiration Tracking: The system maintains a database of standard food storage times and sends notifications when items are approaching expiration. Users can see a prioritized list of what needs to be consumed soon.
+Expiration Tracking: The system maintains a database of standard food storage times and sends notifications when items are approaching expiration. Users can see a prioritized list of what needs to be consumed soon. The system adjusts expiration predictions based on the specific storage conditions of each refrigerator zone.
 
-Storage Optimization: Based on the user's refrigerator model (input during setup), the system provides customized storage recommendations for optimal food preservation, including suggested temperature settings and ideal storage locations within the refrigerator.
+Model-Specific Storage Optimization: Based on the user's refrigerator model (input during setup), the system provides customized storage recommendations for optimal food preservation. This includes suggested temperature settings for different compartments and ideal storage locations based on the refrigerator's specific preservation features (such as humidity-controlled drawers or quick-cooling sections).
 
-Recipe Suggestions: An AI-powered recipe recommendation system suggests meals based on available ingredients, prioritizing items nearing expiration. Users can filter suggestions based on dietary preferences and cooking time.
+Recipe Suggestions: An AI-powered recipe recommendation system suggests meals based on available ingredients, prioritizing items nearing expiration. Users can filter suggestions based on dietary preferences and cooking time. When a recipe is selected, the system highlights missing ingredients that could be automatically added to shopping lists for future integration with grocery delivery services such as Amazon fresh delivery, wholefoods delivery, Uber delivery etc.
 
 Inventory Analytics: The system provides insights into food waste patterns, most/least used items, and shopping recommendations to help users optimize their grocery purchases.
 
