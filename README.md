@@ -39,8 +39,8 @@ The system will provide the following key functionalities from an end-user's per
 ### 🥦 Food Item Management  
 - Users can add items to their digital inventory by **uploading photos** of the food or **receipts**. 📸🧾  
 - The system will use **image recognition** to identify items and automatically input relevant details.  
-- If the uploaded image is an **actual picture of the food**, the system may **detect its best-by date** by analyzing color, texture, and surface conditions to assess freshness. 🍎🥩  
-- If lighting or food quality is insufficient for analysis, or if the image is a **receipt**, the system may:  
+- If the uploaded image is an actual picture of the food, the system may **detect its best-by date** by analyzing color, texture, and surface conditions to assess freshness. 🍎🥩  
+- If lighting or food quality is insufficient for analysis, or if the image is a receipt, the system may:  
   - Extract **printed best-by dates** from packaging. 🏷️  
   - Suggest **best-by dates** based on data from food sellers or standard storage guidelines. 📅  
 - Users can view refrigerator contents remotely without opening the door, reducing **energy waste** and maintaining optimal **temperature levels**. ❄️🔋  
