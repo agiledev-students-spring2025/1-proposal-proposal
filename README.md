@@ -56,11 +56,11 @@ The system will provide the following key functionalities from an end-user's per
 - Includes **suggested temperature settings** 🌡️ and **ideal storage locations** based on the refrigerator's **preservation features** (e.g., humidity-controlled drawers or quick-cooling sections).  
 
 ### 🍽️ AI-Powered Recipe Suggestions  
-- The system suggests **meals based on available ingredients**, prioritizing those **nearing expiration**. 🍲  
+- The system suggests meals based on available ingredients, prioritizing those nearing expiration. 🍲  
 - Users can filter suggestions based on **dietary preferences** and **cooking time**. 🥦⏳  
 - When a recipe is selected, the system:  
   - Highlights **missing ingredients** 🛒  
-  - Allows users to **add missing ingredients to shopping lists** for future **grocery delivery integration** (Amazon Fresh, Whole Foods, Uber Eats, etc.). 🚚🛍️  
+  - Allows users to add missing ingredients to shopping lists for future **grocery delivery integration** (Amazon Fresh, Whole Foods, Uber Eats, etc.). 🚚🛍️  
 
 ### 📊 Inventory Analytics  
 - Users can access **insights into food waste patterns** to track **most/least used items**. 📉  
