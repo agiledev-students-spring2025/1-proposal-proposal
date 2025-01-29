@@ -32,25 +32,6 @@ Unlike some systems that need the involvement of business owners to test, which 
 
 ## How?
 
-*A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.*
-
-The system consists of two main modules:
-
-1. Inventory & Supplier Management Module
-- Inventory managers can view real-time stock levels, supplier details, and initiate reorders
-- Stock clerks can record incoming products, assign storage locations, and process outgoing orders
-- The system maintains detailed inventory history and supplier information
-
-
-2. Sales Processing Module
-- Customers can create orders, modify them before processing, and track order status
-- Sales managers can monitor new orders and generate picking lists for stock clerks
-- The system maintains a comprehensive order history
-
-All operations will be handled sequentially to ensure data consistency and avoid conflicts.
-
-
---------
 The system will provide the following key functionalities from an end-user's perspective:
 
 Food Item Management: Users can add items to their digital inventory by uploading photos of the food or receipts. The system will use image recognition to identify items and automatically input relevant details. If the uploaded image is the actual picture of the food, the system may detect its best buy date by looking at its visual characteristics (color, texture, surface conditions) to assess its current freshness level. If the light or quality of the food is not good enough to provide those information, or if the uploaded image is the recept, the system may extract printed best-by dates from packaging, the suggested best-by dates from internet/food sellers, or the standard storage timelines. Users can also view their refrigerator contents remotely without opening the door, reducing energy waste and maintaining optimal temperature.
