@@ -53,7 +53,7 @@ The system will provide the following key functionalities from an end-user's per
 ### ❄️ Model-Specific Storage Optimization  
 - Users input their **refrigerator model** during setup. 🏠🗂️  
 - The system provides **customized storage recommendations** for optimal food preservation.  
-- Includes **suggested temperature settings** 🌡️ and **ideal storage locations** based on the refrigerator's **preservation features** (e.g., humidity-controlled drawers or quick-cooling sections).  
+- Includes **suggested temperature settings** 🌡️ and **ideal storage locations** based on the refrigerator's preservation features (e.g., humidity-controlled drawers or quick-cooling sections).  
 
 ### 🍽️ AI-Powered Recipe Suggestions  
 - The system suggests meals based on available ingredients, prioritizing those nearing expiration. 🍲  
