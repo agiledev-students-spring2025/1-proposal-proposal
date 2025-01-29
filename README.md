@@ -60,10 +60,10 @@ The system will provide the following key functionalities from an end-user's per
 - Users can filter suggestions based on **dietary preferences** and **cooking time**. 🥦⏳  
 - When a recipe is selected, the system:  
   - Highlights **missing ingredients** 🛒  
-  - Allows users to add missing ingredients to shopping lists for future **grocery delivery integration** (Amazon Fresh, Whole Foods, Uber Eats, etc.). 🚚🛍️  
+  - Allows users to add missing ingredients to shopping lists for future grocery delivery integration (Amazon Fresh, Whole Foods, Uber Eats, etc.). 🚚🛍️  
 
 ### 📊 Inventory Analytics  
-- Users can access **insights into food waste patterns** to track **most/least used items**. 📉  
+- Users can access insights into food waste patterns to track **most/least used items**. 📉  
 - The system provides **shopping recommendations** to optimize grocery purchases. 🛒✅  
 
 
