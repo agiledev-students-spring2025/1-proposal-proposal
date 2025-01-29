@@ -4,21 +4,21 @@
 
 Jan 28, 2025
 
-### Project title
+## Project title
 
 *Give your project a nice title.*
 
 Simple Supply Chain Management System (SCMS)
 
-### What and why?
+## What and why?
 
 *What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.*
 
 We propose building a Simple Supply Chain Management System (SCMS) designed to streamline and automate key supply chain processes for small-scale retail operations. The system focuses on two critical areas: inventory & supplier management and order processing collaboration.
 
-The problem this system solves is the inefficient manual management of inventory and orders in small retail businesses like pharmacies and convenience stores. Many such businesses still rely on paper-based systems or basic spreadsheets, leading to inventory errors, delayed reordering, and poor supplier coordination. By automating these processes, the system will reduce human error, prevent stock-outs, and improve overall operational efficiency.
+The problem this system solves is the inefficient manual management of inventory and orders in small retail businesses like pharmacies and convenience stores. Many such businesses still rely on paper-based systems or basic spreadsheets, leading to inventory errors, delayed reordering, and poor supplier coordination. By automating these processes, the system will reduce human error, prevent stock-outs, and improve overall operational efficiency.  
 
-### For whom?
+## For whom?
 
 *Who will this software be for? These people are your end-users or customers. Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you. Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.*
 
@@ -29,7 +29,7 @@ This software is specifically designed for small-sized pharmacies and convenienc
 - Sales managers who process customer orders
 - Customers who place and track their orders
 
-### How?
+## How?
 
 *A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.*
 
@@ -48,7 +48,7 @@ The system consists of two main modules:
 
 All operations will be handled sequentially to ensure data consistency and avoid conflicts.
 
-### Scope
+## Scope
 
 *A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.*
 
