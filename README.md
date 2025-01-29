@@ -10,7 +10,9 @@ Jan 28, 2025
 
 Simple Supply Chain Management System (SCMS)
 
-*Smart Refrigerator Management System (SRMS)*
+--------
+
+Smart Refrigerator Management System (SRMS)
 
 ## What and why?
 
@@ -95,19 +97,3 @@ This project is appropriately scoped for a 4-6 person team over one semester. Th
 
 This project strikes an appropriate balance for a semester-long development by a team of 4-6 programmers. The core functionality of inventory management and expiration tracking provides a solid foundation that can be implemented within the first half of the semester. The image recognition and recipe recommendation features add complexity that makes the project challenging without being overwhelming. We can leverage existing APIs for image recognition and recipe databases to avoid rebuilding these components from scratch. The project can be developed incrementally, with the basic tracking system implemented first, followed by the AI-powered features. The mobile application format provides natural boundaries for the project scope, while still allowing for expansion if time permits. The technical requirements involve mobile development, database design, API integration, and AI implementation - providing enough complexity to engage the entire team while remaining achievable within the semester timeframe.
 
-
-  
-
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The document should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public `#project-ideas` channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
