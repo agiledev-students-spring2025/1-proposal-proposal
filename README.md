@@ -10,16 +10,6 @@ Smart Refrigerator Management System (SRMS)
 
 ## What and why?
 
-*What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.*
-
-We propose building a Simple Supply Chain Management System (SCMS) designed to streamline and automate key supply chain processes for small-scale retail operations. The system focuses on two critical areas: inventory & supplier management and order processing collaboration.
-
-The problem this system solves is the inefficient manual management of inventory and orders in small retail businesses like pharmacies and convenience stores. Many such businesses still rely on paper-based systems or basic spreadsheets, leading to inventory errors, delayed reordering, and poor supplier coordination. By automating these processes, the system will reduce human error, prevent stock-outs, and improve overall operational efficiency.  
-
-
---------
-
-
 We propose developing a Smart Refrigerator Management System (SRMS), a mobile (and/or web) application designed to help people better manage their refrigerated food items and reduce food waste. The problem this system addresses is significant: according to the U.S. Food & Drug Administration, the average household wastes approximately 30% to 40% of their food, costing residents $310 billion. A large portion could due to poor refrigerator management and forgotten expired items. Moreover, the forgotten expired food items can contaminate other foods in the refrigerator, creating potential health risks and requiring extensive cleaning. Many people, like myself, struggle to track expiration dates, forget what food they have, and end up with spoiled items or duplicate purchases. Our system provides a feasible way to mitigate this issue.
 
 Different refrigerator models offer varying preservation features and storage zones optimized for specific types of food. For example, some models have specialized compartments for fruits and vegetables with humidity control, while others have precise temperature zones for meat and dairy. However, most users don't fully utilize these features because they don't understand how to match different foods with the optimal storage locations in their specific refrigerator model. This system would bridge this knowledge gap by providing personalized storage recommendations based on both the food type and the unique features of the user's refrigerator model.
