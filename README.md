@@ -39,21 +39,21 @@ The system will provide the following key functionalities from an end-user's per
 ### 🥦 Food Item Management  
 - Users can add items to their digital inventory by **uploading photos** of the food or **receipts**. 📸🧾  
 - The system will use **image recognition** to identify items and automatically input relevant details.  
-- If the uploaded image is an **actual picture of the food**, the system may **detect its best-by date** by analyzing **color, texture, and surface conditions** to assess freshness. 🍎🥩  
+- If the uploaded image is an **actual picture of the food**, the system may **detect its best-by date** by analyzing color, texture, and surface conditions to assess freshness. 🍎🥩  
 - If lighting or food quality is insufficient for analysis, or if the image is a **receipt**, the system may:  
   - Extract **printed best-by dates** from packaging. 🏷️  
-  - Suggest **best-by dates** based on data from **food sellers or standard storage guidelines**. 📅  
-- Users can **view refrigerator contents remotely** without opening the door, reducing **energy waste** and maintaining optimal **temperature levels**. ❄️🔋  
+  - Suggest **best-by dates** based on data from food sellers or standard storage guidelines. 📅  
+- Users can view refrigerator contents remotely without opening the door, reducing **energy waste** and maintaining optimal **temperature levels**. ❄️🔋  
 
 ### ⏳ Expiration Tracking  
-- The system maintains a **database of standard food storage times** and sends **notifications** when items approach expiration. 📢  
+- The system maintains a **database of standard food storage times** and sends notifications when items approach expiration. 📢  
 - Users receive a **prioritized list** of items that need to be consumed soon. 🥗⏳  
 - Expiration predictions adjust based on the **specific storage conditions** of each refrigerator zone. 📊  
 
 ### ❄️ Model-Specific Storage Optimization  
 - Users input their **refrigerator model** during setup. 🏠🗂️  
 - The system provides **customized storage recommendations** for optimal food preservation.  
-- Includes **suggested temperature settings** 🌡️ and **ideal storage locations** based on the refrigerator's **preservation features** (e.g., **humidity-controlled drawers** or **quick-cooling sections**).  
+- Includes **suggested temperature settings** 🌡️ and **ideal storage locations** based on the refrigerator's **preservation features** (e.g., humidity-controlled drawers or quick-cooling sections).  
 
 ### 🍽️ AI-Powered Recipe Suggestions  
 - The system suggests **meals based on available ingredients**, prioritizing those **nearing expiration**. 🍲  
