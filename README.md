@@ -56,6 +56,8 @@ This software is designed for several specific groups of end-users:
 
 We have already spoken with several potential users, including our roommates, college friends, and family members who actively manage household refrigerators, and they have expressed strong interest in such a system.
 
+Unlike some systems that need the involvement of business owners to test, which raise additional difficulties when partnering with those end-users, being university students, we have direct access to the user segments that can potentially be the end-users for this system, particularly through our dormitory communities and shared student apartments. Our immediate environment provides an ideal testing ground with users who fit multiple target segments: busy students who cook, health-conscious individuals sharing refrigerators, and budget-aware consumers wanting to minimize waste. This proximity to our user base will allow for rapid feedback cycles and iterative improvements throughout the development process.
+
 ## How?
 
 *A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.*
