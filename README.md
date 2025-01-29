@@ -1,6 +1,6 @@
 # Project Proposal
 
-![Sherry Liu](https://github.com/SherryKu), ![Veronica Zhao](https://github.com/verozhao)
+[Sherry Liu](https://github.com/SherryKu), [Veronica Zhao](https://github.com/verozhao)
 Jan 28, 2025
 
 ### Project title
